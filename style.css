@@ -1,0 +1,42 @@
+.wrapper {
+	width: 960px;
+	margin:0 auto;
+}
+
+
+.searchDiv{
+	margin-top: 30px;
+	float:right;
+}
+
+.animalBtn, .submitBtnStyle {
+	background: grey;
+	color:white;
+	border-radius: 10px;
+	padding:5px 20px 5px 20px;
+	margin:5px;
+	font-size: 16px;
+}
+
+.submitBtnStyle {
+	margin:8px 0 0 0;
+}
+
+.textStyle{
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+
+.inputStyle {
+	display: block;
+}
+
+.imgWithRate{
+	display:inline-block;
+	margin:20px;
+}
+
+.ratingText {
+	margin-bottom: 10px;
+}
